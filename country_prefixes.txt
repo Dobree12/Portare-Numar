@@ -1,0 +1,224 @@
++93: Afghanistan
++27: Africa de Sud
++355: Albania
++213: Algeria
++376: Andorra
++244: Angola
++1264: Anguilla
++1268: Antigua și Barbuda
++966: Arabia Saudita
++54: Argentina
++374: Armenia
++297: Aruba
++61: Australia
++43: Austria
++994: Azerbaijan
++1242: Bahamas
++973: Bahrain
++880: Bangladesh
++1246: Barbados
++375: Belarus
++32: Belgia
++501: Belize
++229: Benin
++1441: Bermuda
++975: Bhutan
++591: Bolivia
++387: Bosnia si Hertegovina
++267: Botswana
++55: Brazilia
++673: Brunei Darussalam
++359: Bulgaria
++226: Burkina Faso
++257: Burundi
++238: Capul Verde
++855: Cambodia
++237: Camerun
++1: Canada
++236: Republica Centrafricana
++235: Ciad
++56: Chile
++86: China
++57: Columbia
++242: Congo
++506: Costa Rica
++225: Coasta de Fildes
++385: Croatia
++53: Cuba
++599: Curaçao
++357: Cipru
++420: Cehia
++850: Coreea de Nord
++82: Coreea de Sud
++45: Danemarca
++246: Diego Garcia
++253: Djibouti
++1767: Dominica
++1809: Rep. Dominicana
++1829: Rep. Dominicana
++1849: Rep. Dominicana
++593: Ecuador
++20: Egipt
++503: El Salvador
++41: Elvetia
++971: Emiratele Arabe Unite
++291: Eritrea
++372: Estonia
++251: Etiopia
++679: Fiji
++63: Filipine
++358: Finlanda
++33: Franța
++241: Gabon
++220: Gambia
++995: Georgia
++49: Germania
++233: Ghana
++350: Gibraltar
++30: Grecia
++299: Groenlanda
++1473: Grenada
++590: Guadelupe
++1671: Guam
++502: Guatemala
++224: Guinea
++245: Guinea-Bissau
++592: Guyana
++240: GUINEEA ECUATORIALA
++594: Guiana Franceza
++509: Haiti
++504: Honduras
++852: Hong Kong, China
++91: India
++62: Indonezia
++677: Insulele Solomon
++1649: Insulele Turks si Caicos
++1340: Insulele Virgine Americane
++1284: Insulele Virgine Britanice
++1345: Insulele Cayman
++682: Insulele Cook
++500: Insulele Falkland
++298: Insulele Feroe
++269: Insulele Comore
++98: Iran
++964: Irak
++353: Irlanda
++962: Iordania
++972: Israel
++39: Italia
++354: Islanda
++1876: Jamaica
++81: Japonia
++7: Kazakhstan
++254: Kenya
++686: Kiribati
++965: Kuweit
++996: Kyrgyzstan
++856: Laos
++371: Letonia
++961: Liban
++266: Lesotho
++231: Liberia
++218: Libia
++423: Liechtenstein
++370: Lituania
++352: Luxemburg
++853: Macao, China
++389: Macedonia
++261: Madagascar
++265: Malawi
++60: Malaezia
++960: Maldive
++223: Mali
++356: Malta
++596: Martinica
++222: Mauritania
++230: Mauritius
++52: Mexic
++691: Micronesia
++373: Moldova
++377: Monaco
++976: Mongolia
++382: Muntenegru
++1664: Montserrat
++212: Maroc
++258: Mozambic
++264: Namibia
++674: Nauru
++977: Nepal
++687: Noua Caledonie
++64: Noua Zeelanda
++505: Nicaragua
++227: Niger
++234: Nigeria
++683: Niue
++47: Norvegia
++92: Pakistan
++680: Palau
++507: Panama
++675: Papua Noua Guinee
++595: Paraguai
++51: Peru
++48: Polonia
++689: Polinezia Franceza
++351: Portugalia
++1787: Puerto Rico
++1939: Puerto Rico
++974: Qatar
++44: Regatul Unit al Marii Britanii
++40: Romania
++7: Rusia
++250: Rwanda
++290: Sfanta Elena, Ascension si Tristan da Cunha
++1684: Samoa Americana
++247: Sfanta Elena, Ascension si Tristan da Cunha
++1 869: Sfantul Kitts si Nevis
++1 758: Saint Lucia
++508: Saint Pierre si Miquelon
++1 784: Saint Vincent si Grenadines
++685: Samoa
++378: San Marino
++239: Sao Tome și Principe
++221: Senegal
++381: Serbia
++248: Seychelles
++232: Sierra Leone
++65: Singapore
++1721: Sint Maarten (Antilele Olandeze)
++421: Slovacia
++386: Slovenia
++252: Somalia
++211: Sudanul de Sud
++34: Spania
++94: Sri Lanka
++1: Statele Unite ale Americii
++249: Sudan
++597: Surinam
++268: Swaziland
++46: Suedia
++963: Siria
++886: Taiwan
++992: Tajikistan
++255: Tanzania
++66: Thailanda
++670: Timor-Leste
++228: Togo
++690: Tokelau
++676: Tonga
++1868: Trinidad si Tobago
++216: Tunisia
++90: Turcia
++993: Turkmenistan
++688: Tuvalu
++256: Uganda
++380: Ucraina
++36: Ungaria
++598: Uruguay
++998: Uzbekistan
++678: Vanuatu
++58: Venezuela
++84: Vietnam
++681: Wallis si Futuna
++967: Yemen
++260: Zambia
++263: Zimbabwe

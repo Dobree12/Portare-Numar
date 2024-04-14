@@ -14,18 +14,17 @@ This Python script allows users to retrieve information about telephone numbers 
 
 ### Number Information Retrieval
 
-1. Run the script.
-2. Enter a 10-digit phone number when prompted.
-3. The script will fetch information about the operator, initial operator, current date, and number type associated with the entered phone number.
-4. If the information is found, it will be displayed; otherwise, an error message will be shown.
+ Run the script.
+ Enter a 10-digit phone number when prompted.
+ The script will fetch information about the operator, initial operator, current date, and number type associated with the entered phone number.
+ If the information is found, it will be displayed; otherwise, an error message will be shown.
 
 ### Country Prefix Lookup
-
-1. Ensure you have a text file named `country_prefixes.txt` in the same directory as the script.
-2. The file should contain country prefixes in the format: `prefix:country`.
-3. Run the script.
-4. Enter a prefix when prompted.
-5. The script will output the corresponding country associated with the entered prefix if found; otherwise, it will display a message indicating that the prefix is not associated with any known country.
+ Ensure you have a text file named `country_prefixes.txt` in the same directory as the script.
+ The file should contain country prefixes in the format: `prefix:country`.
+ Run the script.
+ Enter a prefix when prompted.
+ The script will output the corresponding country associated with the entered prefix if found; otherwise, it will display a message indicating that the prefix is not associated with any known country.
 
 ## Notes
 

@@ -1,5 +1,3 @@
-Certainly! Here's a README for your code:
-
 ---
 
 # Telephone Number Information Retrieval
